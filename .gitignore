@@ -1,0 +1,6 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+./Tensorflow/ipynb_checkpoints
+# Ignore environment files
+env/
+.env
